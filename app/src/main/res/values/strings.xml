@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Assistant</string>
+    <string name="permission">permission</string>
+    <string name="Please_accept_permissions">please grant the permission</string>
+</resources>
