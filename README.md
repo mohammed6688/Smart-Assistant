@@ -1,7 +1,8 @@
 # Smart-Assistant
 Smart Assistant is a smart note android application with word pronunciation
 
-*App Features:
+# App Features:
+
 1- adding a new word 
 
 2- view word translation
